@@ -29,10 +29,7 @@ namespace CloudAppCore1
             });
             
             // Use SQL Database if in Azure, otherwise, use SQLite
-            if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production")
-                services.AddDbContext<JobContext>(options =>
-                        options.UseSqlServer("Server=tcp:testappserver01.database.windows.net,1433;Initial Catalog=testapps01;Persist Security Info=False;User ID=testadmin;Password=kO7o5wF%Z6bD;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
-            else
+            
                 services.AddDbContext<JobContext>(options =>
                         options.UseSqlite("Data Source=localJobs.db"));
 
