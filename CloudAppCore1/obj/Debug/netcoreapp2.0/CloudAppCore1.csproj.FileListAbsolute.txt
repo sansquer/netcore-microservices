@@ -1,0 +1,11 @@
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\bin\Debug\netcoreapp2.0\CloudAppCore1.deps.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\obj\Debug\netcoreapp2.0\CloudAppCore1.csprojResolveAssemblyReference.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\obj\Debug\netcoreapp2.0\CloudAppCore1.csproj.CoreCompileInputs.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\obj\Debug\netcoreapp2.0\CloudAppCore1.AssemblyInfoInputs.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\obj\Debug\netcoreapp2.0\CloudAppCore1.AssemblyInfo.cs
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\obj\Debug\netcoreapp2.0\CloudAppCore1.pdb
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\bin\Debug\netcoreapp2.0\CloudAppCore1.runtimeconfig.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\bin\Debug\netcoreapp2.0\CloudAppCore1.runtimeconfig.dev.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\bin\Debug\netcoreapp2.0\CloudAppCore1.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\bin\Debug\netcoreapp2.0\CloudAppCore1.pdb
+C:\Users\s.ansquer\source\repos\CloudAppCore1\CloudAppCore1\obj\Debug\netcoreapp2.0\CloudAppCore1.dll

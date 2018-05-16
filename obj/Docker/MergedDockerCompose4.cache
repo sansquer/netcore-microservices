@@ -1,0 +1,29 @@
+services:
+  cloudappcore1:
+    build:
+      context: C:\Users\s.ansquer\source\repos\CloudAppCore1
+      dockerfile: CloudAppCore1/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: cloudappcore1
+    ports:
+    - 80/tcp
+  webapp:
+    build:
+      context: C:\Users\s.ansquer\source\repos\CloudAppCore1
+      dockerfile: ..\WebApp\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapp
+    ports:
+    - 80/tcp
+  webmvc:
+    build:
+      context: C:\Users\s.ansquer\source\repos\CloudAppCore1
+      dockerfile: WebMvc\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webmvc
+    ports:
+    - 80/tcp
+version: '3.0'

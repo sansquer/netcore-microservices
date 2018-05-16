@@ -1,0 +1,15 @@
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\HttpLib.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\bin\Debug\netcoreapp2.0\HttpLib.pdb
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojResolveAssemblyReference.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CoreCompileInputs.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CopyComplete
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb

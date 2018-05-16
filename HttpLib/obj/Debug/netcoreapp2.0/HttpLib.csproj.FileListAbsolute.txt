@@ -1,0 +1,12 @@
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\bin\Debug\netcoreapp2.0\HttpLib.deps.json
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\bin\Debug\netcoreapp2.0\HttpLib.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\bin\Debug\netcoreapp2.0\HttpLib.pdb
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.csproj.CoreCompileInputs.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.AssemblyInfoInputs.cache
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.AssemblyInfo.cs
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.csproj.CopyComplete
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.dll
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.pdb
+C:\Users\s.ansquer\source\repos\CloudAppCore1\HttpLib\obj\Debug\netcoreapp2.0\HttpLib.csprojResolveAssemblyReference.cache

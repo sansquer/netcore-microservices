@@ -1,0 +1,9 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using WebMvc.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li><a asp-area="" asp-controller="Jobs" asp-action="Add">Add Job</a></li>
+}
